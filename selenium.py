@@ -1,5 +1,6 @@
 #pip install selenium
 #http://chromedriver.chromium.org/downloads
+#chuyên py sang .exe pyinstaller --onefile -w tkinter_demo.py
 
 from selenium import webdriver
 from time import sleep
